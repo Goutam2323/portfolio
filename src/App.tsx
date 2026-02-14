@@ -243,7 +243,8 @@ const Hero = ({ profile }: HeroProps) => (
               <div>
                 <div className="text-[10px] font-bold text-slate-600 uppercase tracking-widest mb-3">Current Role</div>
                 <div className="text-white font-bold text-base leading-snug">Fullstack Software<br />Engineer</div>
-                <div className="text-slate-500 text-xs mt-1">Infervize Private Ltd.</div>
+                <div className="text-slate-500 text-xs mt-1">Infervize Home Services Private Limited
+</div>
               </div>
               <div className="w-10 h-10 rounded-2xl flex items-center justify-center" style={{ background: 'linear-gradient(135deg,rgba(124,58,237,0.3),rgba(8,145,178,0.3))' }}>
                 <Briefcase size={18} className="text-violet-300" />
