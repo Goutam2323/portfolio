@@ -557,6 +557,13 @@ export default function App() {
       desc: "Smart expense tracker featuring GenAI suggestions, category insights, and receipt upload capabilities.",
       stack: ["Angular", "Node.js", "Express", "GenAI"],
       link: "#"
+    },
+     {
+      title: "ZippyCut",
+      category: "Hyperlocal Marketplace",
+      desc: "Despite massive digital adoption, most neighborhood barbers still operate manually, leading to waiting times and idle hours.",
+      stack: ["Angular", "Node.js", "Express", "GenAI" , "Razorpay API"],
+      link: "https://zippycut.vercel.app",
     }
   ];
 
